@@ -1,7 +1,5 @@
 # nyu-travis-ci
 [![Build Status](https://app.travis-ci.com/rladuddlf/lab-travis-ci.svg?branch=master)](https://app.travis-ci.com/rladuddlf/lab-travis-ci)
-
-
 [![codecov](https://codecov.io/gh/rladuddlf/lab-travis-ci/branch/master/graph/badge.svg?token=KF80TKFC7C)](https://codecov.io/gh/rladuddlf/lab-travis-ci)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
