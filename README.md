@@ -1,5 +1,4 @@
 # nyu-travis-ci
-
 [![Build Status](https://app.travis-ci.com/rladuddlf/lab-travis-ci.svg?branch=master)](https://app.travis-ci.com/rladuddlf/lab-travis-ci)
 
 
